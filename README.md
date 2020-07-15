@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[@DavianYang](https://twitter.com/DavianYang)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am an otaku and a big fan of iyashikei genre anime
+- ⚡ Fun fact: ...I am an otaku and a big fan of iyashikei(癒し系) genre anime
