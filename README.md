@@ -2,7 +2,6 @@
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594821553/profile/Hi_I_am_Davian_Yang_ebr8tu.png)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: VisionLab
 - 🌱 I’m currently learning: Tensorflow/Nodejs
