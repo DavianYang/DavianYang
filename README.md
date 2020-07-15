@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on: VisionLab
 - 🌱 I’m currently learning: Tensorflow/Nodejs
-- 👯 I’m looking to collaborate on: Nodejs
 - 💬 Ask me about Anything
 - 📫 How to reach me: [@DavianYang](https://twitter.com/DavianYang)
 - 😄 Pronouns: He/Him
