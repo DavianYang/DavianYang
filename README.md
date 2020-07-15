@@ -1,6 +1,6 @@
 ### Hi Guys, this is what I'm Working On! 🎧
 
-[![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594821553/profile/Hi_I_am_Davian_Yang_ebr8tu.png)]
+[This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594821553/profile/Hi_I_am_Davian_Yang_ebr8tu.png)
 
 Here are some ideas to get you started:
 
