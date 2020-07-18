@@ -8,4 +8,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [@DavianYang](https://twitter.com/DavianYang)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a big fan of iyashikei(癒し系) genre animes/mangas
+- ⚡ Fun fact: I am a huge fan of iyashikei(癒し系) genre animes/mangas
