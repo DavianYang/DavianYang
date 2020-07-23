@@ -8,8 +8,6 @@
   <h1><b>< HI > Lovely to see you here!!! 🎧</b></h1>
 </p>
 
-<hr>
-
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Tensorflow/Nodejs**  
 - 💬 Ask me about Anything  
