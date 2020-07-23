@@ -6,7 +6,7 @@
 
 
 
-<p align="center" text-align="center">
+<p text-align="center">
   <h1><b>Hi, Lovely to see you here!!! 🎧</b></h1>
 </p>
 
