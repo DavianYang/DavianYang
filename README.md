@@ -7,7 +7,7 @@
 
 
 <p text-align="center">
-  <h1><b>Hi, Lovely to see you here!!! 🎧</b></h1>
+  <h1 style="color: red"><b>Hi, Lovely to see you here!!! 🎧</b></h1>
 </p>
 
 - 🔭 I’m currently working on: **VisionLab**  
