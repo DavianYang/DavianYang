@@ -1,5 +1,3 @@
-### Hi Guys, this is what I'm Working On! 🎧
-
 <p align="center">
   <img align="center" src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200" height="200">
 </p>
