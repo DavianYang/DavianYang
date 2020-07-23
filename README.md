@@ -5,7 +5,7 @@
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
 <p align="center">
-  # < HI > Lovely to see you here!!! 🎧
+  <h1><b>< HI > Lovely to see you here!!! 🎧</b></h1>
 </p>
 
 <hr>
