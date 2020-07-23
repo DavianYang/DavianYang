@@ -4,8 +4,10 @@
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
+
+
 <p align="center">
-  <h1><b>< HI > Lovely to see you here!!! 🎧</b></h1>
+  <h1><b>Hi, Lovely to see you here!!! 🎧</b></h1>
 </p>
 
 - 🔭 I’m currently working on: **VisionLab**  
