@@ -6,7 +6,7 @@
 
 ### < HI > Lovely to see you 🎧
 
-<br>
+<lr>
 
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Tensorflow/Nodejs**  
