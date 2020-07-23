@@ -4,7 +4,7 @@
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
-[![Twitter](https://res.cloudinary.com/dcrgv598u/image/upload/v1595511209/profile/Add_a_subheading_jv3ql2.png)](https://twitter.com/DavianYang)
+[<img src="https://res.cloudinary.com/dcrgv598u/image/upload/v1595511209/profile/Add_a_subheading_jv3ql2.png" height="25">](https://twitter.com/DavianYang)
 
 <p text-align="center">
   <h1><b>Hi, Lovely to see you here!!! 🎧</b></h1>
