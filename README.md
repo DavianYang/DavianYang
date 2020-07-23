@@ -2,7 +2,7 @@
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
-<img align='right' src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200">
+<img align='right' src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200" height="200">
 
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Tensorflow/Nodejs**  
