@@ -1,8 +1,6 @@
 ### Hi Guys, this is what I'm Working On! 🎧
 
-
-
-<img align="center" src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200" height="200">
+<div style="text-align:center"><img align="center" src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200" height="200"></div>
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
