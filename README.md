@@ -4,9 +4,11 @@
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
-### < HI > Lovely to see you 🎧
+<p align="center">
+  ### < HI > Lovely to see you 🎧
+</p>
 
-<lr>
+<hr>
 
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Tensorflow/Nodejs**  
