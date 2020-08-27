@@ -2,8 +2,6 @@
   <img align="center" src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200" height="200">
 </p>
 
-![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
-
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Pytorch/Nodejs**  
 - 💬 Ask me about Anything  
