@@ -4,8 +4,6 @@
 
 ![This is Davian Yang](https://res.cloudinary.com/dcrgv598u/image/upload/v1594828210/1_veoqi5.png)
 
-[<img src="https://res.cloudinary.com/dcrgv598u/image/upload/v1595513155/profile/1_vuyhoh.png" height="40">](https://twitter.com/DavianYang)
-
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Pytorch/Nodejs**  
 - 💬 Ask me about Anything  
