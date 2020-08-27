@@ -6,10 +6,6 @@
 
 [<img src="https://res.cloudinary.com/dcrgv598u/image/upload/v1595513155/profile/1_vuyhoh.png" height="40">](https://twitter.com/DavianYang)
 
-<p text-align="center">
-  <h1><b>Hi, Lovely to see you here!!! 🎧</b></h1>
-</p>
-
 - 🔭 I’m currently working on: **VisionLab**  
 - 🌱 I’m currently learning: **Pytorch/Nodejs**  
 - 💬 Ask me about Anything  
