@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" src='https://res.cloudinary.com/dcrgv598u/image/upload/v1595498463/profile/tyzh_gao8cq.gif' width="200" height="200">
 </p>
-
+[![Davian Yang's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/davianyang)
 - 🔭 I’m currently working on: **neuro_models**  
 - 🌱 I’m currently learning: **Pytorch/Nodejs**  
 - 💬 Ask me about Anything  
