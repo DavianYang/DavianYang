@@ -5,5 +5,6 @@
 - 🐦 Check my tweets: [@DavianYang](https://twitter.com/DavianYang)  
 - ⚡ Fun fact: I am a huge fan of iyashikei(癒し系) genre animes/mangas  
 - 🎧 Fav Music Genre: Soft Acoustic/Jazz  
+- 🔢 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
