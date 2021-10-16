@@ -7,4 +7,4 @@
 - 🎧 Fav Music Genre: Soft Acoustic/Jazz  
 
 
-![Metrics](https://github.com/DavianYang/DavianYang/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/DavianYang?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FYangon)
