@@ -7,3 +7,4 @@
 - 🎧 Fav Music Genre: Soft Acoustic/Jazz  
 
 
+![Github Metrics](https://raw.githubusercontent.com/DavianYang/DavianYang/github-metrics/github-metrics.svg)
