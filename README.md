@@ -3,4 +3,5 @@
 </p>
  
 - ⚡ Fun fact: I am a huge fan of iyashikei(癒し系) genre animes/mangas  
-- 🎧 Fav Music Genre: Soft Acoustic/Jazz  
+- 🎧 Fav Music Genre: Soft Acoustic/Jazz
+- 👨‍🎓 Education: University of Debrecen - Computer Science (current)
